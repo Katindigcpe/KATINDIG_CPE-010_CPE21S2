@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://www.deviantart.com/lulcomputer/art/Swinging-Cross-chain-%5BSteam-Workshop%5D-1022554981" width="100%" height="100px" style="object-fit: cover;">
+<img src="https://i.pinimg.com/originals/5a/eb/8c/5aeb8c3a8cb226f4ae734beeadb2e093.gif" width="100%" height="100px" style="object-fit: cover;">
 
 <pre style="font-size:16px; color:#FF4500; margin-top: -50px; position: relative;">
  ░▒▓██████▓▒░░▒▓███████▓▒░░▒▓████████▓▒░      ░▒▓████████▓▒░  ░▒▓█▓▒░▒▓████████▓▒░ 
