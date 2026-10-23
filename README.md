@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/de/e7/85/dee7851208617e0febcb569fd10ded72.gif" width="100%" height="100px" style="object-fit: cover;">
+<img src="https://i.pinimg.com/originals/de/e7/85/dee7851208617e0febcb569fd10ded72.gif" width="100%" height="200px" style="object-fit: cover;">
 
 <pre style="font-size:16px; color:#FF4500; margin-top: -50px; position: relative;">
  ░▒▓██████▓▒░░▒▓███████▓▒░░▒▓████████▓▒░      ░▒▓████████▓▒░  ░▒▓█▓▒░▒▓████████▓▒░ 
